@@ -1,0 +1,12 @@
+.text{
+    background-color:#adabb4;
+    padding:10px;
+    width:50%;
+    float:left;
+}
+.picture{
+    background-color:#9ba3b3;
+    padding:10px;
+    width:50%;
+    float:right;
+}
