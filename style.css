@@ -18,7 +18,9 @@ h1{
     font-weight:400;
     border-bottom:2px solid rgb(103, 115, 128,0.5);
     width:40%;
-    padding-bottom:1.3rem;
-    margin:1% 2%;
-    
+}
+p{
+    text-transform:capitalize;
+    color: #4d4d4d;
+    letter-spacing:1px;
 }
